@@ -20,10 +20,10 @@
 //
 #define MODIFIERKEY_FN 0x8f   // give Fn key a HID code 
 
-#define CAPS_LEDH 2 // Teensy LED shows Caps-Lock
+#define CAPS_LEDH 2 // Caps lock LED pins
 #define CAPS_LEDL 21
 
-#define MUTE_LEDH 23 // MUTE LED
+#define MUTE_LEDH 23 // Mute LED pins
 #define MUTE_LEDL 1
 
 //
